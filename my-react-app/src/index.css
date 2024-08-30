@@ -1,0 +1,35 @@
+.containerContador {
+    text-align: center;
+    font-family: monospace, sans-serif;
+}
+
+.containerContador h1 {
+    margin-top:150px;
+}
+
+.react {
+    color:rgb(106, 106, 255);
+}
+
+.exibeNumero {
+    font-size: 10em;
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+.botaoContador {
+    width: 100px;
+    padding: 5px;
+    font-size: 0.9em;
+    font-weight: bold;
+    margin: 0 3px;
+    background-color: rgb(106, 106, 255);
+    color: rgb(6, 6, 57);
+    border: 2px, solid, rgb(6, 6, 57);
+    border-radius: 5px;
+}
+
+.botaoContador:hover {
+    background-color: rgb(66, 66, 204);
+    cursor: pointer;
+}
